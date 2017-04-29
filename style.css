@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.split-box{
+    position: absolute;
+    width: 50%;
+    height: 90%;
+}
+
+.left-box{
+    left: 0;
+}
+
+.left-box img{
+    width: 720px;
+}
+
+.right-box{
+    right: 0;
+    overflow-y: scroll;
+    text-align: center;
+}
+
+.introduction_{
+    padding: 220px 0px;
+}
+.sabu_1{
+    font-size: 20px;
+}
+.title{
+    font-size: 120px;
+}
+.sabu_2{
+    font-size: 50px;
+}
+
+.introduction{
+    padding: 330px 0px;
+}
+.headline{
+    font-size: 20px;
+}
+.kind{
+    font-size: 25px;
+}
+.name{
+    font-size: 90px;
+}
